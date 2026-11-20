@@ -1,6 +1,6 @@
 #!/usr/bin/env node
 /**
- * Build script for /tg/station 13 codebase.
+ * Build script for /tg/station 13 codebase.TEST
  *
  * This script uses Juke Build, read the docs here:
  * https://github.com/stylemistake/juke-build
